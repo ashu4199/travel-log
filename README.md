@@ -1,6 +1,11 @@
 # Travel-log
 This is a personal travel-log 
 
+![](Screenshot%202020-10-14%20at%2012.18.38%20PM.png)
+
+
+![](Screenshot%202020-10-14%20at%2012.19.08%20PM.png)
+
 MERN STACK 
 ### -Backend 
 * Used morgan to maintain server-side logging of requests made to the api.
